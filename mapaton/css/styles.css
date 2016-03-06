@@ -1,0 +1,25 @@
+.img-2 {
+	display: none;
+}
+main{
+	margin: 0 auto;
+	width: 40.5%;
+}
+main form{
+	width: 56px;
+    margin-top: -647px;
+    display: flex;	
+}
+main form .places{
+	margin-top: -426px;
+    border-color: transparent;
+    margin-bottom: 200px;
+    width: 59px;
+    padding: 36px 223px;
+    margin: 0px 0px -1px 112px;
+}
+main form .button{
+	height: 50px;
+    margin: 122px 0px 0px 10px;
+    padding: 15px 32px;
+}
